@@ -1,18 +1,18 @@
 {
     "basics": {
-      "name": "John Doe",
-      "label": "Programmer",
+      "name": "Adrián San Martín",
+      "label": "Full Stack Developer autodidacta",
       "image": "https://avatars.githubusercontent.com/u/3330617?s=48&v=4",
-      "email": "john@gmail.com",
+      "email": "sanmartin.adrian@gmail.com",
       "phone": "(912) 555-4321",
       "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "summary": "Casi analista de sistemas, me gusta indagar sobre nuevas tecnologías y aprendo por mi cuenta",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
+        "city": "Bahía Blanca",
+        "countryCode": "ES",
+        "region": "Argentina"
       },
       "profiles": [{
         "network": "Github",
@@ -83,8 +83,8 @@
       ]
     }],
     "languages": [{
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Lengua nativa"
     }],
     "interests": [{
       "name": "Wildlife",
@@ -98,13 +98,15 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "Hacktober Fest 2022",
+      "isActive": false,
+      "startDate": "2022-10-04",
+      "endDate": "2022-10-13",
+      "description": "Participe del hacktoberfest creando un simple generador de contraseñas, en un fork de la mano de midudev",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "Solving a frontend challenge for Hacktoberfest 2022", "Hacktoberfest 2022"
       ],
-      "url": "https://project.com/"
+      "url": "https://hacktoberfest-2022.vercel.app/entry/gitsanmartin",
+      "github": "https://github.com/gitsanmartin/hacktoberfest-2022"
     }]
   }
