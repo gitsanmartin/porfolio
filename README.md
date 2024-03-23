@@ -2,17 +2,7 @@
 <h2>
     Simple portafolio personal y minimalista
 </h2>
-<p>
-Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
-</p>
-
-<p>
-Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
-</p>
-
-<p>
-Basado en el repositorio de <a href="https://github.com/midudev/minimalist-portfolio-json">Miguel Ángel Durán</a>
-</p>
+</div>
 
 ## Stack
 
@@ -32,3 +22,9 @@ Todos los comandos se ejecutan desde la raíz del proyecto, desde una terminal:
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
+
+> [!NOTE]
+>
+> - Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
+> - Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+> - Basado en el repositorio de <a href="https://github.com/midudev/minimalist-portfolio-json">Miguel Ángel Durán</a>
