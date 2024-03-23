@@ -6,10 +6,10 @@
       "email": "sanmartin.adrian@gmail.com",
       "phone": "(912) 555-4321",
       "url": "https://johndoe.com",
-      "summary": "Casi analista de sistemas, me gusta indagar sobre nuevas tecnologías y aprendo por mi cuenta",
+      "summary": "Soy un Full Stack Developer autodidacta que está siempre al tanto de las últimas tecnologías. Últimamente, me ha dado por indagar sobre QA Testing y estoy explorando esa área con mucho entusiasmo. Me encanta abordar nuevos desafíos y estoy listo para aplicar mi ojo crítico y mis habilidades analíticas para asegurar que nuestros productos sean de calidad.",
       "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
+        "address": "Rivadavia",
+        "postalCode": "B 8000",
         "city": "Bahía Blanca",
         "countryCode": "ES",
         "region": "Argentina"
@@ -21,6 +21,17 @@
       }]
     },
     "work": [{
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "Company",
       "position": "President",
       "url": "https://company.com",
@@ -43,13 +54,13 @@
       ]
     }],
     "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
+      "institution": "Instituto superior Juan XXIII",
+      "url": "https://www.juan23.edu.ar/",
+      "area": "Tecnicatura superior en análisis de sistemas",
+      "studyType": "Tecnicatura Superior",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "score": "",
       "courses": [
         "DB1101 - Basic SQL"
       ]
@@ -73,15 +84,74 @@
       "url": "https://publication.com",
       "summary": "Description…"
     }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+      ]},
+      {
+        "name": "CSS",
+        "level": "intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]},
+      {
+        "name": "JavaScript",
+        "level": "intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]},
+      {
+        "name": "Git",
+        "level": "intermedio",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+      ]},
+      {
+        "name": "Github",
+        "level": "intermedio",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]},
+      {
+        "name": "Tailwind",
+        "level": "intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]},
+      {
+        "name": "TypeScript",
+        "level": "basic",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]},
+      {
+        "name": "Node",
+        "level": "intermedio",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]},
+      {
+        "name": "MySql",
+        "level": "avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]},
+      {
+        "name": "Prisma",
+        "level": "avanzado",
+        "keywords": [
+          "Bases de Datos", "ORM", "Schema", "GraphQL", "Backend"
+      ]},
+      {
+        "name": "Svelte",
+        "level": "intermedio",
+        "keywords": [
+          "Reactividad", "Frameworks modernos", "Compilación", "Frontend", "Backend"
+      ]}
+    ],
     "languages": [{
       "language": "Español",
       "fluency": "Lengua nativa"
